@@ -40,7 +40,7 @@
   <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/884737/1+2-#%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0">написать отчет о результатах тестирования</a></li>
 </ol>
 
->  <a href="[https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f](http://skyeng.ru/)">Ссылка на проект</a>
+>  <a href="http://skyeng.ru/">Ссылка на проект</a>
 <br> 
 
 <p> Проект 3: тест приложения Skyeng для изучения английского языка</p>
