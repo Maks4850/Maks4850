@@ -4,7 +4,7 @@
 ## Обо мне 
 
 Привет! Меня зовут Максимов Роман, я начинающий тестировщик. <br>
-В этом репозитории вы можете посмотреть проекты, выполненные во время обучения и практики.
+В этом репозитории вы можете посмотреть проекты, выполненные во время обучения .
 <br>
 
 ## Навыки и технологии
@@ -16,18 +16,17 @@
 
  # Проекты
 
-<p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
+<p> Проект 1: тест веб-приложения <a href="https://online-ru-lib-3.herokuapp.com/">Онлайн Библиотека</a></p>
 <p>Что нужно было сделать:<p>
 <ol>
-  <li>сделать тест-план </li>
-  <li>подготовить тестовую документацию</li>
-  <li>провести тестирование</li>
-  <li>написать отчет о результатах тестирования</li>
+  <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/1507483#%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">сделать тест-план</a> </li>
+  <li><a href="https://app.qase.io/project/LIBRARY"> подготовить тестовую документацию</a></li>
+  <li><a href="https://app.qase.io/run/LIBRARY/dashboard/1"> провести тестирование</a></li>
+  <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/1507483">написать отчет о результатах тестирования</a></li>
 </ol>
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
+> <a href="https://online-ru-lib-3.herokuapp.com/">Ссылка на проект</a>
+
 
 
 <br> 
@@ -58,23 +57,11 @@
 <br> 
 
 
-<p>Проект 4: тест веб-приложения для учителей от Skyeng </p> 
-<p>Что нужно было сделать:<p>
-<ol>
-  <li>сделать тест-план </li>
-  <li>подготовить тестовую документацию</li>
-  <li>провести тестирование</li>
-  <li>написать отчет о результатах тестирования</li>
-</ol>
-
-> <a href="https://www.example.com/my great page](https://eff.org](https://fogen.notion.site/fogen/27-05-22-12-22-QA-Engineer-82f93b5a6fe3444ab02f9ef1d6918218">Ссылка на проект</a>
-<br> 
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: maximoff.roman2010@yandex.ru
+
 
 <!--
 **Maks4850/Maks4850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
