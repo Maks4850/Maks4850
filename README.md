@@ -114,6 +114,8 @@
 
 ## Контактная информация
 - Email: maximoff.roman2010@yandex.ru
+ 
+  <img src="https://drive.google.com/file/d/1lYzGuKHuDBexxcfBIE8Ora98LMVr9cpS/view?usp=drive_link" width="40" height="40"/>
 
 
 <!--
