@@ -10,21 +10,23 @@
 В этом репозитории вы можете посмотреть проекты, выполненные во время обучения .
 <br>
 
+#### Важная информация : доступ к проекту в Confluence открыт для всех пользователей Confluence 😊
+
 ## Навыки и технологии
 <div>
-  <img src="https://www.hello-charles.com/hubfs/CharlesLOGO.png" width="40" height="40"/>
-  <img src="https://i.ytimg.com/vi/mVfPB6Dtc7s/maxresdefault.jpg" width="40" height="40"/>
-  <img src="https://hitamputihseo.com/blog/wp-content/uploads/2020/12/Chrome-DevTools.png"  width="40" height="40"/>
-  <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png"  width="40" height="40"/>
-  <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2017/07/swagger-eyecatch.png" width="40" height="40"/>
-  <img src="https://qase.io/images/q_logo.png?v=2" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence"  alt="Confluence" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://www.hello-charles.com/hubfs/CharlesLOGO.png" width="40" height="40"/>
+   <img src="https://i.ytimg.com/vi/mVfPB6Dtc7s/maxresdefault.jpg" width="40" height="40"/>
+   <img src="https://hitamputihseo.com/blog/wp-content/uploads/2020/12/Chrome-DevTools.png"  width="40" height="40"/>
+   <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png"  width="40" height="40"/>
+   <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2017/07/swagger-eyecatch.png" width="40" height="40"/>
+   <img src="https://qase.io/images/q_logo.png?v=2" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence"  alt="Confluence" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 <!--``postman``, ``jira``,``postgresql``,``qase.io``,``Fiddler``, ``Swagger``, ``Trello``, <br>
@@ -44,9 +46,31 @@
   <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/1507483">написать отчет о результатах тестирования</a></li>
 </ol>
 
-> <a href="https://online-ru-lib-3.herokuapp.com/">Ссылка на проект</a>
+> <a href="https://online-ru-lib-3.herokuapp.com/">Ссылка на проект</a> 
 
 
+<!--Ссылки на текстовую докуметацию по проекту:
+
+<div>
+
+ 
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
+     <a href="https://drive.google.com/drive/folders/1rA2GbcXaXagOBEvxK94YfbO55hwkZjMF?usp=drive_link"> Postman
+
+
+</div> -->
+
+
+<!--Ссылки на текстовую докуметацию по проекту:
+
+<div>
+  <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png"  width="40" height="40"/>
+<a href="https://drive.google.com/file/d/1JgjTAhZnHHBJ9QtK1whDLjxhSP1_fam7/view?usp=drive_link"> Soap UI 
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
+  <a href=">
+
+
+</div> -->
 
 <br> 
 
@@ -54,7 +78,8 @@
 <p>Что нужно было сделать:<p>
 <ol>
   <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/884737/1+2-#%D0%A2%D0%B5%D1%81%D1%82-%D0%BF%D0%BB%D0%B0%D0%BD">сделать тест-план</a> </li>
-  <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/884737/1+2-#%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B-%D0%B8-%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B">подготовить тестовую документацию</a></li>
+  <li>
+  <a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/884737/1+2-#%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B-%D0%B8-%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B">подготовить тестовую документацию</a></li>
   <li><a href="https://app.qase.io/run/KW/dashboard/2">провести тестирование</a></li>
   <li><a href="https://qa-bag-reportr.atlassian.net/wiki/spaces/~63aee017d3aeefa40542a591/pages/884737/1+2-#%D0%9E%D1%82%D1%87%D0%B5%D1%82-%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0">написать отчет о результатах тестирования</a></li>
 </ol>
@@ -62,7 +87,28 @@
 >  <a href="http://skyeng.ru/">Ссылка на проект</a>
 <br> 
 
+Ссылки на текстовую докуметацию по проекту:
 
+<div>
+
+ 
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
+     <a href="https://drive.google.com/drive/folders/1rA2GbcXaXagOBEvxK94YfbO55hwkZjMF?usp=drive_link"> Postman
+
+
+</div>
+
+## Ссылки на практические навыки 
+
+<div>
+
+  <img src="https://logovectorseek.com/wp-content/uploads/2020/09/soapui-supported-by-smartbear-logo-vector.png"  width="40" height="40"/>
+     <a href="https://drive.google.com/file/d/1JgjTAhZnHHBJ9QtK1whDLjxhSP1_fam7/view?usp=drive_link"> Soap UI
+   <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" width="40" height="40"/>
+     <a href="https://drive.google.com/drive/folders/1bmCMtr8N7bhFIYlY3fKVtsfPnas57lOc?usp=drive_link"> SQL
+   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
+     <a href="https://drive.google.com/drive/folders/1x0mhhb5NyWqGaTf2tcdPukpko92YHKeX?usp=drive_link"> Postman  
+</div>
 
 
 
