@@ -115,7 +115,7 @@
 ## Контактная информация
 - Email: maximoff.roman2010@yandex.ru
  
-  <img src="https://drive.google.com/file/d/1lYzGuKHuDBexxcfBIE8Ora98LMVr9cpS/view?usp=drive_link" width="40" height="40"/>
+  <img src="https://www.cargadetrabalhos.net/wp-content/uploads/2021/11/logo-1.jpg" width="40" height="40"/>
 
 
 <!--
