@@ -114,6 +114,7 @@
 
 ## Контактная информация
 - Email: maximoff.roman2010@yandex.ru
+- VK: https://vk.com/id594547899
  
   <img src="https://www.cargadetrabalhos.net/wp-content/uploads/2021/11/logo-1.jpg" width="40" height="40"/>
 
